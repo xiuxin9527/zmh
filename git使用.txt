@@ -1,0 +1,8 @@
+1、先下载安装 git
+git update-git-for-windows 升级
+2、cmd验证： 	git --version
+		git config --global user.name "修心"
+		git config --gloabl user.email "99338962@qq.com"
+		git config --list
+
+
